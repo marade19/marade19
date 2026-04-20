@@ -8,7 +8,7 @@ These queries simulate the kinds of database investigations a Support Engineer a
 
 ---
 
-## 📂 File Structure
+## File Structure
 
 ```
 sql-support-queries/
@@ -24,7 +24,7 @@ sql-support-queries/
 └── README.md
 ```
 
-## 🗄️ Schema Overview
+## Schema Overview
 
 ```sql
 -- Core tables used across all queries
@@ -37,7 +37,7 @@ payments          -- payment processing records
 
 ---
 
-## 🔍 Query Summaries
+## Query Summaries
 
 | File | Scenario | Key Concepts |
 |---|---|---|
@@ -50,7 +50,7 @@ payments          -- payment processing records
 
 ---
 
-## 💡 How to Use
+## How to Use
 
 ```bash
 # 1. Start PostgreSQL
@@ -69,7 +69,7 @@ CREATE DATABASE support_db;
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - PostgreSQL querying and data investigation
 - Debugging real-world FinTech scenarios with SQL
